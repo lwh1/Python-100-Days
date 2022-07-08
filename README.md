@@ -10,7 +10,7 @@
 
 <img src="https://gitee.com/jackfrued/mypic/raw/master/20211120192545.png">
 
-### Python应用领域和职业发展分析
+
 
 简单的说，Python是一个“优雅”、“明确”、“简单”的编程语言。
 
